@@ -20,4 +20,4 @@ Latihan6
 
 Praktikum
 ![alt_text](https://github.com/cettasubagyo/jobsheet5/blob/master/catch.png)
-![alt_text](https://github.com/cettasubagyo/jobsheet5/blob/master/throws throw.png)
+![alt_text](https://github.com/cettasubagyo/jobsheet5/blob/master/throws%20throw.png)
